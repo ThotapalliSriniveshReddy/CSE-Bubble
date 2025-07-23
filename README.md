@@ -5,7 +5,7 @@ This repository contains a MIPS-like implementation in Verilog as part of the CS
 
 ## Author
 Sriniveh Reddy Thotapalli <br>
-Course: CS2002 Computer Organization, Sem 24-25 even <br>
+Course: CS2002 Computer Organization, Sem 24-25 <br>
 National Institute of Technology, Rourkela
 
 ## Project Structure
